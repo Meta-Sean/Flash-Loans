@@ -1,0 +1,4 @@
+.env
+pancake/node_modules/
+uniswapv2/node_modules/
+uniswapv3/node_modules/
