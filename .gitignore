@@ -1,0 +1,9 @@
+.gitignore
+.env
+pancake/node_modules/
+uniswapv2/node_modules/
+uniswapv3/node_modules/
+uniswapv2/.env
+uniswapv3/.env
+testnet-sender/.env
+testnet-sender/node_modules/
